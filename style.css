@@ -1,0 +1,11 @@
+.Wrapper {
+  display: flex;
+  align-items: center;
+}
+.img {
+  border-radius: 35px;
+  width: 280px;
+  height: 320px;
+  margin-top: -150px;
+  margin-left: 40px;
+}
