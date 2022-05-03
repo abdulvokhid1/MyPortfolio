@@ -52,8 +52,8 @@
 .content {
   margin-left: 50px;
 }
-.image1 {
-  width: 80px;
+.image {
+  /* width: 280px;
   height: 300px;
   /* border-radius: 25px; */
   margin-left: 30px;
@@ -63,11 +63,43 @@
   border: 3px solid #3c67e3;
   border-radius: 10px;
 }
-:hover.image1 {
+:hover.image {
   animation: pulsate 1s ease-in-out;
 }
 @keyframes pulsate {
   0% {
     box-shadow: 0 0 25px #5ddcff, 0 0 50px #4e00c2;
   }
+}
+.housinggit {
+  display: flex;
+  margin-left: 500px;
+  align-items: center;
+}
+.fa-github {
+  margin-right: 10px;
+  /* margin-bottom: 70px; */
+}
+.gitword {
+  margin-top: 30px;
+}
+.greenshopgit {
+  display: flex;
+  /* margin-left: 00px; */
+  align-items: center;
+  margin-left: 10px;
+}
+.sightword {
+  margin-bottom: 1px;
+}
+.youtubegit {
+  margin-left: 100px;
+  display: flex;
+}
+.tube {
+  margin-right: 30px;
+}
+.tubeword {
+  margin-bottom: -40px;
+  margin-left: -20px;
 }
