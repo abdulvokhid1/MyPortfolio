@@ -94,6 +94,9 @@
 }
 .gitword {
   margin-top: 30px;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
 }
 .greenshopgit {
   display: flex;
@@ -103,21 +106,16 @@
 }
 .sightword {
   margin-bottom: 1px;
-}
-.youtubegit {
-  margin-left: 15px;
-  display: flex;
-}
-
-.tube {
-  margin-right: 30px;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
 }
 .tubeword {
-  margin-bottom: -40px;
-  margin-left: -20px;
-}
-.major2 {
-  margin-bottom: 70px;
+  /* margin-right: 80px;
+  margin-top: 50px; */
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
 }
 .clone {
   font-size: 20px;
@@ -126,4 +124,9 @@
 :hover.clone {
   transition: all 3s;
   color: black;
+}
+.info {
+  font-size: 20px;
+  font-weight: 900;
+  cursor: pointer;
 }
